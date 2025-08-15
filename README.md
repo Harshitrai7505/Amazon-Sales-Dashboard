@@ -1,34 +1,32 @@
-📊 Amazon Sales Dashboard - Power BI Project
+📊 Amazon Sales Dashboard - Power BI
 
-Welcome to the Amazon Sales Dashboard, a data visualization project built using Power BI. This dashboard offers deep insights into Amazon sales performance, empowering users to make data-driven decisions with clarity and precision.
+This project is a fully interactive Amazon Sales Dashboard built using Power BI, aimed at tracking and visualizing sales performance, product trends, and customer behavior.
 
-🔍 Key Features:
+🔧 Features & KPIs:
 
-📈 Sales Overview: Track total revenue, profit, and quantity sold over time.
+✅ Year-To-Date (YTD) Sales
 
-🌍 Geographic Analysis: Visualize sales distribution across different countries or regions.
+✅ Quarter-To-Date (QTD) Sales
 
-🛍️ Category Insights: Analyze performance by product categories and subcategories.
+✅ YTD Products Sold
 
-🧑‍💼 Customer Segmentation: Understand buying patterns and customer behavior.
+✅ YTD Product Reviews
 
-📅 Time-based Trends: Yearly, quarterly, and monthly sales trends.
+✅ Sales by Month and Week
 
-⚡ Interactive Filters: Slice and dice the data using dynamic filters and slicers.
+✅ Sales by Product Category
 
-📁 Tools & Technologies:
+✅ Top 5 Products by YTD Sales
 
-Power BI (Data Modeling & Visualization)
+✅ Top 5 Products by YTD Reviews
 
-DAX (Data Analysis Expressions)
+📌 Tools & Technologies:
 
-Data Cleaning & Transformation
+Power BI
 
-GitHub (Version Control)
+DAX for custom KPIs
 
-🎯 Objective:
-
-To create an insightful, visually appealing dashboard that helps stakeholders quickly understand key sales metrics, track KPIs, and identify growth opportunities in Amazon's e-commerce data.
+Power Query for data transformation
 
 
 <img width="881" height="496" alt="Amazon Sales Dashboard" src="https://github.com/user-attachments/assets/fee739c6-f563-4f28-8a1f-fbe705286d89" />
